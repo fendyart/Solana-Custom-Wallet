@@ -1,0 +1,22 @@
+{
+  "name": "solana-custom-wallet-generator",
+  "version": "1.0.0",
+  "description": "A Node.js script to generate Solana vanity addresses (custom wallets) with a specific prefix and/or suffix.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "solana",
+    "wallet",
+    "generator",
+    "vanity-address",
+    "web3",
+    "blockchain"
+  ],
+  "author": "fendyart",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.91.0"
+  }
+}
